@@ -206,21 +206,7 @@ We welcome contributions from the community! Follow these steps:
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
-You are free to use, modify, and distribute this project, provided you include the original license notice.
-
----
-
-## 👤 Author
-
-**Md Mahfuj khan**
-- GitHub: [@khanmahfuj34](https://github.com/khanmahfuj34)
-- Repository: [HRM-PRO](https://github.com/khanmahfuj34/HRM-PRO)
-
----
 
 ## 🤝 Support
 
